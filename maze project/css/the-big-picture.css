@@ -11,6 +11,38 @@ body {
   -o-background-size: cover;
 }
 
+.indexbod {
+  background: url('https://thumbs.gfycat.com/FluffyBogusFox-size_restricted.gif') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.aboutbod {
+  background: url('https://thumbs.gfycat.com/FluffyBogusFox-size_restricted.gif') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.servicesbod {
+  background: url('https://thumbs.gfycat.com/FluffyBogusFox-size_restricted.gif') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.contactbod {
+  background: url('https://thumbs.gfycat.com/FluffyBogusFox-size_restricted.gif') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 .mood {
   font-family: 'Monoton', cursive;
   color: beige;
